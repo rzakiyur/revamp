@@ -1,0 +1,22 @@
+div{
+    border: 1px solid black;
+    margin: 0 auto 0 auto
+}
+div h3{
+    text-align: center;
+}
+div form{
+    text-align: center;
+    margin: 11px 0;
+}
+div p{
+    text-align: center;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+video{
+    height: 400px;
+    width: 450px;
+}
